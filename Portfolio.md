@@ -21,11 +21,9 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 
 - `2017.02` 한양대학교 ERICA 소프트웨어학부 입학
 - `2017.03` 소프트웨어학부 학생회 집행부 임원
-- `2017.03-06` [Sudoku](https://github.com/sue991/Sudoku) : Python3 GUI를 이용한 스도쿠 제작
+- `2017.03 - 2017.06` [Sudoku](https://github.com/sue991/Sudoku) : Python3 GUI를 이용한 스도쿠 제작
 - `2017.05` **HEPC** (Hanyang Universirt ERICA Programming Contest) 참가
-- `2017.11` **ERICA Software-Up 경진대회** 6등 수상
-
-- `2017-03` [RAT](https://github.com/20chan/all-my-projects#2015-05-28-rat): 키보드 후킹과 1:N 소켓 통신으로 구현한 키보드 로그 서버/클라이언트 프로그램
+- `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 6등 수상
 
 ## Work Experiences
 
