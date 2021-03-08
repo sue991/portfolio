@@ -25,6 +25,7 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 - `2017.03` 소프트웨어학부 학생회 집행부 임원
 - `2017.03 - 2017.06` [Sudoku](https://github.com/sue991/Sudoku) : Python3 GUI를 이용한 스도쿠 제작
 - `2017.05` **HEPC** (Hanyang Universirt ERICA Programming Contest) 참가
+- `2017.09 - 2017.12` [오픈소스SW](https://github.com/sue991/SOS) : 오픈소스를 사용한 프로젝트 진행
 - `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 6등 수상
 - `2018.01- 2018.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SKT, 기아자동차 공모전 참가
 - `2018.03 - 2018.06` 0&1 C언어 스터디 멘토
