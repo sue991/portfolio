@@ -28,7 +28,7 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 - `2017.09 - 2017.12` [오픈소스SW](https://github.com/sue991/SOS) : 오픈소스를 사용한 프로젝트 진행
 - `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 6등 수상
 
-- `2018.01- 2018.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SKT, 기아자동차 공모전 참가
+- `2018.01 - 2018.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SKT, 기아자동차 공모전 참가
 - `2018.03 - 2018.06` 0&1 C언어 스터디 멘토
 - `2018.04 - 2018.05` [PBL Contest](https://github.com/sue991/portfolio/blob/master/PBL_Contest) : 은상 수상
 - `2018.03 - 2018.06` [Erica PBL Contest](https://github.com/sue991/portfolio/tree/master/ERICA_PBL_Contest) :  은상 수상
@@ -46,7 +46,7 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 - `2020.09 - 2020.12` [로봇크래쉬랩](https://github.com/hyobins/robotui) : 머신러닝, Ai object detection을 이용한 사람인식 및 거리조절 가능 로봇 제작.
 - `2020.09 - 2021.06` [캡스톤](https://github.com/wogns0197/Capstone_KLYJ) : Django를 이용해 학교 공간 대관 홈페이지 제작. 백앤드 담당.
 - `2020.12 - 2021.01` [C#](https://github.com/sue991/csharp) : C# 연습 겸 다양한 프로그램 제작. AWS EC2를 이용한 배포 연습
-- `2021.01`  [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : 내가만든 비교과프로그램 공모전 우수상 수상
+- `2021.01` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : 내가만든 비교과프로그램 공모전 우수상 수상
 
 ## Work Experiences
 
