@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자입니다.
+Python, Django, Big Data, Data Science에 관심이 있는 소프트웨어 개발자입니다.
 
 오픈소스, 구글링 좋아합니다. 
 
-최종목표는 돈많은 백수.
+최종목표는 **돈많은 백수.**
 
 ## Contacts
 
