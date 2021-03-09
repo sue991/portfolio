@@ -12,9 +12,9 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 
 - Email
 
-  + [Gmail](mailto:azing997@gmail.com)
+  + [**Gmail**](mailto:azing997@gmail.com)
 
-  + [Naver](mailto:sue991@naver.com)
+  + [**Naver**](mailto:sue991@naver.com)
 - Github : [sue991](https://github.com/sue991)
 
 ## Personal Experiences
