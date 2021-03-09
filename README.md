@@ -22,7 +22,7 @@ Python, Django, Big Data, Data Science에 관심이 있는 소프트웨어 개�
  ~~일단 다 적어보기~~
 
 - `2017.02` 한양대학교 ERICA 소프트웨어학부 입학
-- `2017.03` 소프트웨어학부 학생회 집행부 임원
+- `2017.03 - 2018.06` 소프트웨어학부 학생회 집행부 임원 및 집행부 부장
 - `2017.03 - 2017.06` [Sudoku](https://github.com/sue991/Sudoku) : Python3 GUI를 이용한 스도쿠 제작
 - `2017.05` **HEPC** (Hanyang Universirt ERICA Programming Contest) 참가
 - `2017.09 - 2017.12` [오픈소스SW](https://github.com/sue991/SOS) : 오픈소스를 사용한 프로젝트 진행
