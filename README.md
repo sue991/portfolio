@@ -27,16 +27,19 @@ Python, Django, Big Data, Database에 관심이 있는 소프트웨어 개발자
 - `2017.05` **HEPC** (Hanyang Universirt ERICA Programming Contest) 참가
 - `2017.09 - 2017.12` [오픈소스SW](https://github.com/sue991/SOS) : 오픈소스를 사용한 프로젝트 진행
 - `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 6등 수상
+
 - `2018.01- 2018.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SKT, 기아자동차 공모전 참가
 - `2018.03 - 2018.06` 0&1 C언어 스터디 멘토
 - `2018.04 - 2018.05` [PBL Contest](https://github.com/sue991/portfolio/blob/master/PBL_Contest) : 은상 수상
 - `2018.03 - 2018.06` [Erica PBL Contest](https://github.com/sue991/portfolio/tree/master/ERICA_PBL_Contest) :  은상 수상
 - `2018.09 - 2018.10` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : 팩트체크, 대우전자 마케팅 공모전 참가
 - `2018.09 - 2019.01` [쏙쏙캠프](https://github.com/sue991/portfolio/tree/master/%EC%8F%99%EC%8F%99%EC%BA%A0%ED%94%84) : 초등학생 대상 2박3일 과학 체험활동 프로그램 기획 및 운영
+
 - `2019.02 - 2021.02` 중앙동아리 크래커(Cracker) 부회장
 - `2019.03` [스타트업 인턴](https://github.com/sue991/susi) : 수시레시피에서 php, Laravel을 이용한 관리자페이지 제작 및 관리
 - `2019.04 - 2019.06` [Ai 인공지능 교육](https://github.com/sue991/Ai_inovation_Square) : 한국IT비즈니스진흥협회에서 주관하는 교육 참가
 - `2019.08 - 2020.02` 미국 버클리에 있는 LSI에서 **어학연수**
+
 - `2020.03 - 2020.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SID Audition 본선 진출
 - `2020.06 - 2020.08` [Baekjoon](https://github.com/sue991/Baekjoon) 알고리즘 문제 풀이
 - `2020.07` **UCPC**(Union of Computer Programming Contest club contest) 예선통과 & 본선진출
