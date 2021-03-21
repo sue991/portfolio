@@ -1,3 +1,3 @@
-<img src="./certificate.jpg" width="100%">
+<img src="./certificate.jpg" width="1000">
 
-<img src="./상패.jpg" width="100%">
+<img src="./trophy.jpg" width="1000">
