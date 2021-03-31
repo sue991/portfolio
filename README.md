@@ -39,7 +39,7 @@ Python, Django, Big Data, Data Science에 관심이 있는 소프트웨어 개�
 - `2019.02 - 2021.02` 중앙동아리 크래커(Cracker) 부회장
 - `2019.03` [스타트업 인턴](https://github.com/sue991/susi) : 수시레시피에서 php, Laravel을 이용한 관리자페이지 제작 및 관리
 - `2019.04 - 2019.06` [Ai 인공지능 교육](https://github.com/sue991/Ai_inovation_Square) : 한국IT비즈니스진흥협회에서 주관하는 교육 참가
-- `2019.08 - 2020.02` 미국 버클리에 있는 LSI에서 **어학연수**
+- `2019.08 - 2020.02` [어학연수](https://github.com/sue991/) 미국 버클리에 있는 LSI에서 6개월간 **어학연수** 진행
 
 - `2020.03 - 2020.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SID Audition 본선 진출
 - `2020.06 - 2020.08` [Baekjoon](https://github.com/sue991/Baekjoon) 알고리즘 문제 풀이
