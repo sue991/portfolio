@@ -1,3 +1,4 @@
 # 내가만든 비교과 프로그램 상장
 
-<img src="./내가만든비교과프로그램.png" width="500">
+<img src="./Certificate.png" width="500">
+
