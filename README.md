@@ -32,7 +32,7 @@ Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는
 - `2018.03 - 2018.05` [스터디](https://github.com/sue991/portfolio/tree/master/%EC%8A%A4%ED%84%B0%EB%94%94) : Python을 사용한 프로그래밍 기초 스터디 멘토
 - `2018.04 - 2018.05` [PBL Contest](https://github.com/sue991/portfolio/blob/master/PBL_Contest) : 은상 수상
 - `2018.03 - 2018.06` [Erica PBL Contest](https://github.com/sue991/portfolio/tree/master/ERICA_PBL_Contest) :  은상 수상
-- `2018.03` [아두이노]() : 학교에서 주최한 **Arduino 로 이해하는 Smart Home** 교육과정 참가
+- `2018.03` [아두이노](https://github.com/sue991/portfolio/tree/master/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) : 학교에서 주최한 **Arduino 로 이해하는 Smart Home** 교육과정 참가
 - `2018.09 - 2018.10` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : 팩트체크, 대우전자 마케팅 공모전 참가
 - `2018.09 - 2019.01` [쏙쏙캠프](https://github.com/sue991/portfolio/tree/master/%EC%8F%99%EC%8F%99%EC%BA%A0%ED%94%84) : 초등학생 대상 2박3일 과학 체험활동 프로그램 기획 및 운영
 - `2019.02 - 2021.02` 중앙동아리 크래커(Cracker) 부회장
