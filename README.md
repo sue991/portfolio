@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Python, Django, Big Data, Data Science에 관심이 있는 소프트웨어 개발자입니다.
+Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는 소프트웨어 개발자입니다.
 
 오픈소스, 구글링 좋아합니다. 
 
