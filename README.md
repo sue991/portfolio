@@ -43,7 +43,7 @@ Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는
 
 - `2020.03 - 2020.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SID Audition 본선 진출
 - `2020.06 - 2020.08` [Baekjoon](https://github.com/sue991/Baekjoon) 알고리즘 문제 풀이
-- `2020.07` **UCPC**(Union of Computer Programming Contest club contest) 예선통과 & 본선진출
+- `2020.07` [코딩대회](https://solved.ac/profile/sue991) **UCPC**(Union of Computer Programming Contest club contest) 예선통과 & 본선진출
 - `2020.09 - 2020.12` [로봇크래쉬랩](https://github.com/hyobins/robotui) : 머신러닝, Ai object detection을 이용한 사람인식 및 거리조절 가능 로봇 제작.
 - `2020.09 - 2021.06` [캡스톤](https://github.com/wogns0197/Capstone_KLYJ) : Django를 이용해 학교 공간 대관 홈페이지 제작. 백앤드 담당.
 - `2020.12 - 2021.01` [C#](https://github.com/sue991/csharp) : C# 연습 겸 다양한 프로그램 제작. AWS EC2를 이용한 배포 연습
