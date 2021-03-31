@@ -1,3 +1,3 @@
 # 코딩버드 교육 수료 완료 인증서
 
-<img src="./코딩버드.pdf" width="500">
+<img src="./coding_bird.png" width="500">
