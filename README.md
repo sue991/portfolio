@@ -6,8 +6,6 @@ Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는
 
 오픈소스, 구글링 좋아합니다. 
 
-최종목표는 **돈많은 백수.**
-
 ## Contacts
 
 - Email
