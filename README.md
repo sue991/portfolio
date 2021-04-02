@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는 소프트웨어 주니어 개발자입니다.
+Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는 소프트웨어 주니어 개발자입니다.   
 
-오픈소스, 구글링 좋아합니다. 
+데이터를 다루고 정제하는 일을 좋아합니다.
 
 ## Contacts
 
