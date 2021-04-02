@@ -7,7 +7,7 @@ Python, Django, Big Data, Data Science, Machine Learning 등에 관심이 있는
 데이터를 다루고 정제하는 일을 좋아합니다.
 
 
-웹으로 보는 포트폴리오 : https://sue991.github.io/
+https://sue991.github.io/
 
 ## Contacts
 
