@@ -28,7 +28,7 @@ https://sue991.github.io/
 - `2017.03 - 2017.06` [Sudoku](https://github.com/sue991/Sudoku) : Python3 GUI를 이용한 스도쿠 제작
 - `2017.05` **HEPC** (Hanyang Universirt ERICA Programming Contest) 참가
 - `2017.09 - 2017.12` [오픈소스SW](https://github.com/sue991/SOS) : 오픈소스를 사용한 프로젝트 진행
-- `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 6등 수상
+- `2017.11` [**ERICA Software-Up 경진대회**](https://github.com/sue991/portfolio/tree/master/SW_UP_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 우수상 수상
 - `2018.01 - 2018.05` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84) : SKT, 기아자동차 공모전 참가
 - `2018.03 - 2018.06` [스터디](https://github.com/sue991/portfolio/tree/master/%EC%8A%A4%ED%84%B0%EB%94%94) : 0&1 C언어 스터디 멘토
 - `2018.03 - 2018.05` [스터디](https://github.com/sue991/portfolio/tree/master/%EC%8A%A4%ED%84%B0%EB%94%94) : Python을 사용한 프로그래밍 기초 스터디 멘토
