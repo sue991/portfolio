@@ -50,7 +50,7 @@ https://sue991.github.io/
 - `2020.12 - 2021.01` [C#](https://github.com/sue991/csharp) : C# 연습 겸 다양한 프로그램 제작. AWS EC2를 이용한 배포 연습
 - `2021.01` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%B9%84%EA%B5%90%EA%B3%BC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8) : 내가만든 비교과프로그램 공모전 우수상 수상
 - `2021.02 - ing`  [Kaggle](https://github.com/sue991/Kaggle) : 정기적인 딥러닝 스터디를 진행하며 Kaggle Course를 수료하고 다양한 Compete를 참가.
-
+- `2021.05 - ing` [DL](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
 
 ## Work Experiences
 
