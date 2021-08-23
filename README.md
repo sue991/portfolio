@@ -7,7 +7,7 @@ Python, Django, Big Data, Data Science, Deep learning 등에 관심이 있는 �
 데이터를 다루고 분석하는 것을 좋아합니다.
 
 
-https://sue991.github.io/
+https://sue991.github.io/developerFolio/
 
 ## Contacts
 
