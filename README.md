@@ -52,6 +52,7 @@ https://sue991.github.io/developerFolio/
 - `2021.02 - 2021.07` [Kaggle](https://github.com/sue991/Kaggle) : 정기적인 딥러닝 스터디를 진행하며 Kaggle Course를 수료하고 다양한 Compete를 참가.
 - `2021.03 - 2021.6` [Machine Learning](https://github.com/A-9-ZZIM/A-9-ZZIM-document) : 건강검진 데이터를 활용한 당뇨병 예측 모델 구현 프로젝트
 - `2021.05 - ing` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
+- `2021.09` [TF Developer](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf) Google Tensorflow Developer certificate 취득
 ## Work Experiences
 
 앞으로 뭘 해야하나...
