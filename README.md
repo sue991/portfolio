@@ -53,6 +53,7 @@ https://sue991.github.io/developerFolio/
 - `2021.03 - 2021.6` [Machine Learning](https://github.com/A-9-ZZIM/A-9-ZZIM-document) : 건강검진 데이터를 활용한 당뇨병 예측 모델 구현 프로젝트
 - `2021.05 - ing` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
 - `2021.09` [TF Developer](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf) Google Tensorflow Developer certificate 취득
+- `2021.11` [Dacon 대회](https://github.com/sue991/User_Overdue_Prediction) 신용카드 사용자 연체 예측 AI 경진대회  
 
 
 ## Certificate
