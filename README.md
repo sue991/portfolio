@@ -51,10 +51,10 @@ https://sue991.github.io/developerFolio/
 - `2021.01` [공모전](https://github.com/sue991/portfolio/tree/master/%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%B9%84%EA%B5%90%EA%B3%BC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8) : 내가만든 비교과프로그램 공모전 우수상 수상
 - `2021.02 - 2021.07` [Kaggle](https://github.com/sue991/Kaggle) : 정기적인 딥러닝 스터디를 진행하며 Kaggle Course를 수료하고 다양한 Compete를 참가.
 - `2021.03 - 2021.6` [Machine Learning](https://github.com/A-9-ZZIM/A-9-ZZIM-document) : 건강검진 데이터를 활용한 당뇨병 예측 모델 구현 프로젝트
-- `2021.05 - ing` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
+- `2021.05 - 2022.02` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
 - `2021.09` [TF Developer](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf) Google Tensorflow Developer certificate 취득
 - `2021.11` [Dacon 대회](https://github.com/sue991/User_Overdue_Prediction) 신용카드 사용자 연체 예측 AI 경진대회  
-
+- `2022.03 - ing`[한양대 대학원]() DSLAB 소속 석사과정 
 
 ## Certificate
 - `Google TF Developer` : [Google Tensorflow Developer certificate](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf)
