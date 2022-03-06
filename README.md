@@ -54,11 +54,12 @@ https://sue991.github.io/developerFolio/
 - `2021.05 - 2022.02` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
 - `2021.09` [TF Developer](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf) Google Tensorflow Developer certificate 취득
 - `2021.11` [Dacon 대회](https://github.com/sue991/User_Overdue_Prediction) 신용카드 사용자 연체 예측 AI 경진대회  
-- `2022.03 - ing` [한양대 대학원]() DSLAB 소속 석사과정 
+- `2022.03 - ing` [한양대 대학원](https://github.com/sue991/Lab) DSLAB 소속 석사과정 
 
 ## Certificate
 - `Google TF Developer` : [Google Tensorflow Developer certificate](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf)
-- 
+
+
 ## Work Experiences
 
 앞으로 뭘 해야하나...
