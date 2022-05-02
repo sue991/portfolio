@@ -2,10 +2,7 @@
 
 ## Introduction
 
-Python, Django, Big Data, Data Science, Deep learning 등에 관심이 있는 소프트웨어학부생 입니다.   
-
-데이터를 다루고 분석하는 것을 좋아합니다.
-
+Python, Django, Pytorch, Data Science, Deep learning 등에 관심이 있는 인공지능융합학과 석사과정 이수아입니다.   
 
 https://sue991.github.io/developerFolio/
 
