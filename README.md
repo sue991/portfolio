@@ -4,8 +4,6 @@
 
 Python, Django, Pytorch, Data Science, Deep learning 등에 관심이 있는 인공지능융합학과 석사과정 이수아입니다.   
 
-https://sue991.github.io/developerFolio/
-
 ## Contacts
 
 - Email
