@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Python, Django, Pytorch, Data Science, Deep learning 등에 관심이 있는 인공지능융합학과 석사과정 이수아입니다.   
+LLM 관련 연구에 관심이 많은 NLP Researcher 입니다.
 
 ## Contacts
 
@@ -54,6 +54,10 @@ Python, Django, Pytorch, Data Science, Deep learning 등에 관심이 있는 인
 ## Certificate
 - `Google TF Developer` : [Google Tensorflow Developer certificate](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf)
 
+## Skills
+- Python3
+- Pytorch
+- Tensorflow
 
 ## Work Experiences
 
