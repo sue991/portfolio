@@ -49,7 +49,9 @@ LLM 관련 연구에 관심이 많은 NLP Researcher 입니다.
 - `2021.05 - 2022.02` [Lab](https://github.com/sue991/Lab) DeepLearning 연구실 인턴
 - `2021.09` [TF Developer](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf) Google Tensorflow Developer certificate 취득
 - `2021.11` [Dacon 대회](https://github.com/sue991/User_Overdue_Prediction) 신용카드 사용자 연체 예측 AI 경진대회  
-- `2022.03 - ing` [한양대 대학원](https://github.com/sue991/Lab) 한양대학교 일반대학원 인공지능융합학과 석사과정
+- `2022.03 - 2024.02` [한양대 대학원](https://github.com/sue991/Lab) 한양대학교 일반대학원 인공지능융합학과 석사과정
+- `2024.05 - 2025.07` [Socar] AI Researcher
+- `2024.08 - ing` [KT] AI Researcher
 
 ## Certificate
 - `Google TF Developer` : [Google Tensorflow Developer certificate](https://github.com/sue991/Certificate/blob/master/tensorflow/certificate.pdf)
@@ -58,7 +60,9 @@ LLM 관련 연구에 관심이 많은 NLP Researcher 입니다.
 - Python3
 - Pytorch
 - Tensorflow
+- 
 
 ## Work Experiences
+- SearchAI
 
 앞으로 뭘 해야하나...
